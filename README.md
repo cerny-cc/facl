@@ -1,6 +1,6 @@
 # facl
 
-Cookbook used to setup POSIX filesystem ACL's on Linux.
+Cookbook used to setup POSIX filesystem ACLs on Linux.
 
 ## Examples
 
